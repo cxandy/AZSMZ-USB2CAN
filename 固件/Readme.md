@@ -2,7 +2,7 @@
 
 Reprogramming is fairly easy. First, move the "boot" jumper into the boot position as labelled on the PCB and then plug it into your computer.
 
-![BOOT POSITION](resources/B1-850.jpg)
+![BOOT POSITION](resources/N2-850.jpg)
 
 If you are running Windows, download dfuse tool and follow ST's guide for installing the driver for the DFU device, generating a DFU file, and flashing the device.
 
