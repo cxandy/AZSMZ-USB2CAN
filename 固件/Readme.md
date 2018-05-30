@@ -6,7 +6,7 @@ Reprogramming is fairly easy. First, move the "boot" jumper into the boot positi
 
 If you are running Windows, download dfuse tool and follow ST's guide for installing the driver for the DFU device, generating a DFU file, and flashing the device.
 
-![Upgrade](resources/Upgrade.jpg)
+![Upgrade](resources/upgrade.jpg)
 
 If you're on Linux or Mac, install dfu-util from your distro's package manager or from brew on OSX. Run the following command to flash your device:
 
