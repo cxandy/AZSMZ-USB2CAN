@@ -1,4 +1,4 @@
-#Flashing new firmware
+#Flashing new firmware#
 
 Reprogramming is fairly easy. First, move the "boot" jumper into the boot position as labelled on the PCB and then plug it into your computer.
 
