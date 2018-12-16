@@ -1,9 +1,9 @@
 # Flashing new firmware #
 
 ## candlelight-firmware    
-    gsusb_canable.dfu (/Firmware/gsusb_canable.dfu)
+    [gsusb_canable.dfu](/Firmware/gsusb_canable.dfu)
 ## slcan-firmware   
-    canable-4f71d65.dfu (/Firmware/canable-4f71d65.dfu)
+    [canable-4f71d65.dfu](/Firmware/canable-4f71d65.dfu)
 
 Reprogramming is fairly easy. First, move the "boot" jumper into the boot position as labelled on the PCB and then plug it into your computer.
 
