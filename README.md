@@ -1,5 +1,8 @@
 # AZSMZ-USB2CAN
 
+## Flashing new firmware
+  [Flow me](/Firmware)
+  
 ## 1.slcan firmware
 
 CANables ship with slcan firmware. This firmware enumerates as a standard serial device on Linux, Mac, and Windows for easy interfacing. The CANable can be easily re-flashed with the candlelight firmware which enumerates as a native CAN device in Linux and a generic USB device in Windows.
