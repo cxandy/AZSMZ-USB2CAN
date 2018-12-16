@@ -2,6 +2,7 @@
 
 ## candlelight-firmware    
     [gsusb_canable.dfu](/Firmware/gsusb_canable.dfu)
+    [gsusb_canable.dfu](/Firmware/gsusb_canable.dfu)  
 ## slcan-firmware   
     [canable-4f71d65.dfu](/Firmware/canable-4f71d65.dfu)
 
