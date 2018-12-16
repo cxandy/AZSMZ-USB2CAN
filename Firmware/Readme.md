@@ -3,8 +3,7 @@
 ## candlelight-firmware   
 
     [gsusb_canable.dfu](/Firmware/gsusb_canable.dfu)
-    [gsusb_canable.dfu](/Firmware/gsusb_canable.dfu)  
-       [ESP8266FLASH.zip](/resources/ESP8266FLASH.zip)
+
 ## slcan-firmware   
 
     [canable-4f71d65.dfu](/Firmware/canable-4f71d65.dfu)
