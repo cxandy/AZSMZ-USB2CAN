@@ -1,10 +1,10 @@
 # Flashing new firmware #
 
-## candlelight-firmware   
+## 1.candlelight-firmware   
 
 [gsusb_canable.dfu](/Firmware/gsusb_canable.dfu)
 
-## slcan-firmware   
+## 2.slcan-firmware   
 
 [canable-4f71d65.dfu](/Firmware/canable-4f71d65.dfu)
 
