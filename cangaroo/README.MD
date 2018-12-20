@@ -1,4 +1,4 @@
 ## cangaroo
 
 ![cangaroo](cangaroo.jpg)
-![setup](setup.jpg)
+![setup](SETUP.jpg)
